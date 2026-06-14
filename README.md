@@ -11,9 +11,10 @@ local llm ai  Linux bash  telegram bot
 
 토큰 무제한 로컬 LLM gemma4 텔레그램 봇 연동 테스트 영상
 
-<p align="center" width="100%">
-<video src="https://youtu.be/c40Mr4wyHGQ" width="80%" controls></video>
-</p>
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+
+[<img src="https://img.youtube.com/vi/c40Mr4wyHGQ/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/c40Mr4wyHGQ)
 
 
 https://youtu.be/c40Mr4wyHGQ
