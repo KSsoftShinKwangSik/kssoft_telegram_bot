@@ -28,7 +28,9 @@ local llm ai  Linux bash  telegram bot
 
 [![Watch the video](https://img.youtube.com/vi/c40Mr4wyHGQ/maxresdefault.jpg)](https://www.youtube.com/embed/c40Mr4wyHGQ)
 
-[<img src="https://img.youtube.com/vi/c40Mr4wyHGQ/maxresdefault.jpg" width="1080" height="1920"
+[<img src="https://img.youtube.com/vi/c40Mr4wyHGQ/maxresdefault.jpg" 
 />](https://www.youtube.com/embed/c40Mr4wyHGQ)
+
+# width="1080" height="1920"
 
 https://youtu.be/c40Mr4wyHGQ
