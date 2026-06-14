@@ -13,5 +13,9 @@ local llm ai  Linux bash  telegram bot
 
 <iframe width="1080" height="1920" src="https://youtu.be/c40Mr4wyHGQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p align="center" width="100%">
+<video src="https://youtu.be/c40Mr4wyHGQ" width="80%" controls></video>
+</p>
+
 
 https://youtu.be/c40Mr4wyHGQ
