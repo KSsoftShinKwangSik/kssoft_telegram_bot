@@ -9,4 +9,7 @@ local llm ai  Linux bash  telegram bot
 
 
 
+토큰 무제한 로컬 LLM gemma4 텔레그램 봇 연동 테스트 영상
+<video src="https://youtu.be/c40Mr4wyHGQ"  controls></video>
+
 https://youtu.be/c40Mr4wyHGQ
