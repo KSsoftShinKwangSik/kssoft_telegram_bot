@@ -6,3 +6,7 @@
 [EN] **Local LLM Telegram Bot via Termux and UBuntu linux bash**
 
 local llm ai  Linux bash  telegram bot
+
+
+
+https://youtu.be/c40Mr4wyHGQ
